@@ -1,0 +1,1 @@
+The Loan Eligibility Prediction website is an interactive platform designed to help users determine their eligibility for various loan options. By leveraging machine learning algorithms implemented in Python, this tool provides quick and accurate predictions based on user-inputted data.
